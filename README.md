@@ -1,4 +1,4 @@
-# nayepankh-org-intern
+# nayepankh-org-intren
 # NayePankh Foundation
 
 Empowering youth through education, internships, skill development, social impact initiatives, and community engagement.
