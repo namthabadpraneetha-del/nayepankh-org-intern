@@ -1,4 +1,3 @@
-# nayepankh-org-intren
 # NayePankh Foundation
 
 Empowering youth through education, internships, skill development, social impact initiatives, and community engagement.
@@ -15,4 +14,4 @@ To create opportunities for students and young professionals to learn, grow, and
 
 ## Contact Us
 Email: info@nayepankhfoundation.org
-website:at live
+Website: Coming Soon
